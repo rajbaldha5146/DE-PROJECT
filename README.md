@@ -270,8 +270,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue in the repository
-- Contact: [your-email@example.com]
-- Documentation: [link-to-docs]
 
 ---
 
