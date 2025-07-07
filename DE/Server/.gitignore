@@ -6,6 +6,8 @@
 .env.production
 .env.example
 
+.node_modules
+
 # Dependencies
 node_modules/
 npm-debug.log*
