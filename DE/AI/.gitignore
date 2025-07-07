@@ -138,4 +138,50 @@ logs/
 # API keys and secrets
 config.json
 secrets.json
-credentials.json 
+credentials.json
+
+# Extra data and large files
+*.pdf
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.mp4
+*.mp3
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.iso
+*.dmg
+*.exe
+*.msi
+*.deb
+*.rpm
+*.pkg
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+*.save
+
+# Large data files
+*.csv
+*.json
+*.xml
+*.xlsx
+*.xls
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Cache and temporary files
+.cache/
+.temp/
+.tmp/
+*.tmp
+*.temp 
